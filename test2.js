@@ -8,4 +8,5 @@ var funkyFunction = function() {
 // NOTE: you only need to modify the code below this line.
 funkyFunction()
 var theFunk = funkyFunction
-return theFunk()
+theFunk()
+return theFunk
